@@ -4,6 +4,7 @@
 
 ## 주제별 실습 📚
 - 예제 에이전트 실습 👉 [example-agent/README.md](example-agent/README.md)
+- 뉴스 리더 에이전트 실습 👉 [news-reader-agent/README.md](news-reader-agent/README.md)
 
 ## 구조 🗂️
 - 각 주제(프레임워크)마다 루트에 폴더를 하나씩 추가합니다.
